@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="<img width="2834" height="1490" alt="Screenshot 2025-07-20 160203" src="https://github.com/user-attachments/assets/9f599cf1-4536-4101-8ca8-800710b1eea9" />
+  <img width="2834" height="1490" alt="" src="https://github.com/user-attachments/assets/9f599cf1-4536-4101-8ca8-800710b1eea9" />
 " alt="Portfolio Banner" width="100%"/>
 </p>
 
