@@ -1,64 +1,140 @@
-# Personal Portfolio Website — v1
 
-My name is Victor Williams, and I’m a front-end engineer and web designer based in Lagos, Nigeria. My passion lies in creating software that solves real-world problems and positively impacts people’s lives.
+<!-- Banner -->
+<p align="center">
+  <img src="/hero.jpg" alt="Portfolio Banner" width="100%"/>
+</p>
 
-I created this website to showcase my work. I’m always striving to create something unique and innovative. I love experimenting with new technologies and staying up-to-date with the latest trends in the tech world.
+<h1 align="center">🚀 AKSHAY KALE — Portfolio v1</h1>
 
-## Tech Stack
+<p align="center">
+  <b>Full Stack Developer | Cybersecurity Enthusiast | UI/UX Designer</b><br/>
+  <i>Showcasing Projects, Research, Certifications, and More!</i>
+</p>
 
-**Client:** React, Next.js, TypeScript, TailwindCSS, Framer Motion, GSAP.
+---
 
-**Hosting:** Vercel.
+## ✨ Overview
 
-## Screenshots & Demo
+Welcome to <b>Akshay Kale's Portfolio</b> — a modern, interactive, and visually stunning portfolio built with <b>Next.js</b>, <b>React</b>, <b>TailwindCSS</b>, and more. This site is designed to highlight my work, research, certifications, and creative journey in tech. 🌐
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228679118-47e63775-0635-42b2-8838-a80644ef612b.png)
+---
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228673498-ad33b834-58b3-43e5-b184-b136d01c6e1a.png)
+## 🧩 Features
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228675919-70180c2c-c888-423d-ae85-409ce4645b8b.png)
+- 🎬 **Animated Hero Section** with floating, draggable, physics-powered badges
+- 🛠️ **Skills Grid** with real tech icons (no boring emojis!)
+- 🏆 **Certifications & Offer Letters** with PDF/image previews
+- 💼 **Work & Experience Timeline**
+- 📚 **The Vault** — for research papers & articles
+- 📜 **Education, About, and Contact** sections
+- 🌙 **Modern, dark-themed, responsive UI**
+- ⚡ **Super smooth animations** (Framer Motion, GSAP)
+- 🖼️ **Image-optimized** and blazing fast
+- ☁️ **Deployed on Vercel**
 
-[View Live Demo](https://folio-v1-victorcodess.vercel.app/)
+---
 
-## Run Locally
+## 🛠️ Tech Stack
 
-Clone the project
+| Frontend         | Animation         | Styling         | Backend/Infra   | Miscellaneous      |
+|-----------------|------------------|-----------------|-----------------|--------------------|
+| React           | Framer Motion     | Tailwind CSS    | Next.js         | Matter.js (Physics)|
+| Next.js         | GSAP              | Custom CSS      | Vercel (Hosting)| Iconify (Icons)    |
+| TypeScript      |                   |                 |                 | FontAwesome        |
+
+---
+
+## 📁 Folder Structure
 
 ```bash
-  git clone https://github.com/victorcodess/folio-v1
+folio-v1/
+├── app/
+│   ├── about-section/
+│   ├── animations/
+│   ├── api/
+│   ├── blog-section/
+│   ├── certifications-section/
+│   ├── contact-section/
+│   ├── education-section/
+│   ├── experience-section/
+│   ├── footer/
+│   ├── hero-section/
+│   ├── navbar/
+│   ├── reviews-section/
+│   ├── skills-section/
+│   ├── utils/
+│   ├── work-section/
+│   └── ...
+├── public/
+│   ├── badges/
+│   ├── blogs/
+│   ├── certificates/
+│   ├── projects/
+│   ├── songs/
+│   ├── Resume AK2025.pdf
+│   └── ...
+├── README.md
+├── package.json
+└── ...
 ```
 
-Go to the project directory
+---
 
+## 🚦 Getting Started
+
+### 1. **Clone the Repo**
 ```bash
-  cd folio-v1
+git clone https://github.com/yourusername/folio-v1.git
+cd folio-v1
 ```
 
-Install dependencies
-
+### 2. **Install Dependencies**
 ```bash
-  npm install
+npm install
 ```
 
-Start the server
-
+### 3. **Run Locally**
 ```bash
-  npm run dev
+npm run dev
 ```
+Visit [http://localhost:3000](http://localhost:3000) to view your site.
 
-## Contributing & Usage
+---
 
-This project is open source, and you are welcome to use the code or parts of the code for your own site. I encourage you to modify the theme and components to make it your own. However, please do not present any of the projects featured on this site as your own. The content of this portfolio is personal and represents real projects I’ve worked on.
+## 🚀 Deployment
 
-If you are using the site’s design largely unmodified, please credit me as the designer of the website.
+This portfolio is optimized for [Vercel](https://vercel.com/):
+- Push your code to GitHub
+- Import your repo in Vercel
+- Click **Deploy**
+- (Optional) Add your custom domain
 
-Incase you have any questions or concerns, please feel free to reach out to me on [Twitter.](https://twitter.com/victorwill__) I am always happy to help!
+---
 
+## 🎨 Customization
 
-## Feedback
+- **Change Profile/Resume:** Replace `public/profile.webp` and `public/Resume AK2025.pdf`
+- **Add Projects/Certifications:** Edit the respective files in `app/work-section/`, `app/certifications-section/`, etc.
+- **Update Skills:** Edit `app/skills-section/skillsDetails.ts` and icons in `Skills.tsx`
+- **Floating Badges:** Add badge images to `public/badges/`
+- **Blog/Research:** Add articles in `app/blog-section/blogDetails.ts` and images in `public/blogs/`
 
-While I would not be accepting contributions or pull requests at this time, I appreciate your feedback on this project. If you have any suggestions or questions, please don’t hesitate to reach out to me on [Twitter.](https://twitter.com/victorwill__) Your feedback is valuable and will help me improve.
+---
 
-## License
+## 📝 Credits & Inspiration
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- **Design & Code:** [Akshay Kale](https://www.linkedin.com/in/akshay-kale-88792932a/)
+- **Inspired by:** Modern developer portfolios, Vercel/Next.js showcase, and the open-source community
+- **Special Thanks:** To all contributors, mentors, and the tech community! 💖
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
+
+<p align="center">
+  <b>Made with passion, code, and ☕ by Akshay Kale</b>
+</p>
