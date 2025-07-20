@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Akshay Kale ",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Frontend Engineer and Web Designer, currently in India. Focused on interfaces and experiences and Cybersecurity and infrastructure protection, working remotely from chhatrapati Sambhajinagar, Maharashtra.",
   generator: "Next.js",
   applicationName: "Akshay Kale",
   keywords: [
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "creative developer",
     "creative engineer",
     "tech",
-    "nigeria",
+    "india",
     "software",
     "software developer",
     "portfolio",
