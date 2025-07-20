@@ -11,7 +11,7 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Akshay Kale — Frontend Engineer",
+  title: "Akshay Kale ",
   description:
     "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",
