@@ -2,7 +2,6 @@
 <!-- Banner -->
 <p align="center">
   <img width="2834" height="1490" alt="" src="https://github.com/user-attachments/assets/9f599cf1-4536-4101-8ca8-800710b1eea9" />
-" alt="Portfolio Banner" width="100%"/>
 </p>
 
 <h1 align="center">🚀 AKSHAY KALE — Portfolio v1</h1>
