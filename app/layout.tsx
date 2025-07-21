@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: "www.ak22dev.vercel.app",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://private-user-images.githubusercontent.com/162922094/468370525-9f599cf1-4536-4101-8ca8-800710b1eea9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwNjE5MzEsIm5iZiI6MTc1MzA2MTYzMSwicGF0aCI6Ii8xNjI5MjIwOTQvNDY4MzcwNTI1LTlmNTk5Y2YxLTQ1MzYtNDEwMS04Y2E4LTgwMDcxMGIxZWVhOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQwMTMzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YTBlZDM0NGQyZDBhZTVlY2NhODYyNTFmZWI2MzBkYWE0MzQ4MTlkOTg2NjQxOGI0ZGQ1ODRkNDlkYzdmZTdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KDNjtqc1Pkm8bGEDprJ_47Ow9yf9byrZYVPax_hFuE8",
         width: 1200,
         height: 630,
         alt: "Akshay Kale — Frontend Engineer",
@@ -59,9 +59,9 @@ export const metadata: Metadata = {
     description:
       "Frontend Engineer and Web Designer, currently in India. Focused on interfaces and experiences and Cybersecurity and infrastructure protection, working remotely from chhatrapati Sambhajinagar, Maharashtra..",
     creator: "AkshayKale__",
-    creatorId: "1243720976552144897",
+    creatorId: "md5.axay",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://private-user-images.githubusercontent.com/162922094/468370525-9f599cf1-4536-4101-8ca8-800710b1eea9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwNjE5MzEsIm5iZiI6MTc1MzA2MTYzMSwicGF0aCI6Ii8xNjI5MjIwOTQvNDY4MzcwNTI1LTlmNTk5Y2YxLTQ1MzYtNDEwMS04Y2E4LTgwMDcxMGIxZWVhOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQwMTMzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YTBlZDM0NGQyZDBhZTVlY2NhODYyNTFmZWI2MzBkYWE0MzQ4MTlkOTg2NjQxOGI0ZGQ1ODRkNDlkYzdmZTdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KDNjtqc1Pkm8bGEDprJ_47Ow9yf9byrZYVPax_hFuE8",
     ],
   },
   robots: {
