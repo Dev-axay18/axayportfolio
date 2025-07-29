@@ -1,4 +1,4 @@
-export type ProjectProps = {
+ export type ProjectProps = {
   id: number;
   name: string;
   description: string;
@@ -60,8 +60,8 @@ export const devProjects = [
     description:
       "Obsidian is a minimalist operating system built from scratch using C and Assembly, with Makefile for seamless compilation. It features a lightweight kernel, basic file management, and a simple command-line interface. The project demonstrates low-level programming and OS design skills.",
     technologies: ["MAKEFILE", "C", "Assembly", "Code"],
-    github: "https://github.com/Dev-axay18",
-    demo: "https://www.linkedin.com/posts/akshay-kale-88792932a_day-day1-obsidianos-activity-7257477309245382658-kWSE?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFMTL6cBVRYFmEYqFqZ_LBeIEdUxOp0wKqM&utm_campaign=copy_link",
+    github: "https://github.com/Dev-axay18/Obsidian",
+    // demo: "https://www.linkedin.com/posts/akshay-kale-88792932a_day-day1-obsidianos-activity-7257477309245382658-kWSE?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFMTL6cBVRYFmEYqFqZ_LBeIEdUxOp0wKqM&utm_campaign=copy_link",
     image: "https://akshaykale.netlify.app/obsidian.png",
     available: true,
   },
