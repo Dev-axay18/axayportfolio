@@ -24,4 +24,12 @@ export const blogDetails = [
     available: true,
     index: 1,
   },
+  {
+    title: "Copy of Cybersecurity for Developers: Writing Python Code That Can’t Be Exploited",
+    image: "https://media.licdn.com/dms/image/v2/D4E12AQGf2vh3DlOrnw/article-cover_image-shrink_720_1280/B4EZgwKICLGYAI-/0/1753154617712?e=1759363200&v=beta&t=McRt_WJE2dKwLAnzfDLOiBatyBVFlXETYh9Hfoicr68",
+    date: "JULE 22, 2025",
+    url: "https://www.linkedin.com/pulse/copy-cybersecurity-developers-writing-python-code-cant-akshay-kale-2zz0e/?trackingId=MvJr51TvSb%2BVFZSNZvoEnA%3D%3D",
+    available: true,
+    index: 2,
+  },
 ];
