@@ -27,7 +27,7 @@ export const blogDetails = [
   {
     title: "Copy of Cybersecurity for Developers: Writing Python Code That Can’t Be Exploited",
     image: "/blogs/Cyber Article.jpeg",
-    date: "JULE 22, 2025",
+    date: "JULY 22, 2025",
     url: "https://www.linkedin.com/pulse/copy-cybersecurity-developers-writing-python-code-cant-akshay-kale-2zz0e/?trackingId=MvJr51TvSb%2BVFZSNZvoEnA%3D%3D",
     available: true,
     index: 2,
