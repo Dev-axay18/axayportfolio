@@ -21,6 +21,17 @@ export const devProjects = [
     image: "https://cdn.dribbble.com/userupload/30442909/file/original-a94632ec8df1d2f76959a2617bb6006d.png?resize=1504x1128&vertical=center",
     available: true,
   },
+   {
+    id: 11,
+    name: "Firewall Rule Optimizer",
+    description:
+      "Firewall Rule Optimizer is an AI-powered firewall rule optimizer and visualizer that analyzes Linux iptables configurations to detect redundant, conflicting, or unreachable rules. It provides intelligent, priority-based suggestions to enhance both security and performance. Featuring stunning CLI visuals, interactive charts, and a sleek Streamlit GUI, it transforms raw firewall data into actionable insights with real-time impact analysis and risk assessment.",
+    technologies: ["Python", "IP Table", "Rich", "Streamlit","Matploitlib/Plotly "],
+    github: "https://github.com/Dev-axay18/firewall-rule-optimizer",
+    demo: "https://firewall-optimizer-epzozfugb5psumixopcmma.streamlit.app/",
+    image: "https://raw.githubusercontent.com/Dev-axay18/firewall-rule-optimizer/refs/heads/main/assets/Pink%20Minimalist%20Hello%20January%20Poster%20Landscape.png",
+    available: true,
+  },
   {
     id: 1,
     name: "Truth Sense",
