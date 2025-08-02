@@ -139,7 +139,7 @@ export const certificationDetails: certificationProps[] = [
     title: "GDG Certificate Of Achievement",
     issuer: "Hack2Skill",
     date: "2025",
-    link: "/certificates/Hack2skill-Certificate.png",
+    link: "/certificates/Hack2skill-Certificate.pdf",
     index: 17,
   },
   // Certificates with LinkedIn links (keeping existing ones)
