@@ -135,6 +135,13 @@ export const certificationDetails: certificationProps[] = [
     link: "/certificates/CodeAlpha DevOps Cert -1.pdf",
     index: 16,
   },
+  {
+    title: "GDG Certificate Of Achievement",
+    issuer: "Hack2Skill",
+    date: "2025",
+    link: "/certificates/Hack2skill-Certificate.png",
+    index: 17,
+  },
   // Certificates with LinkedIn links (keeping existing ones)
   
   
