@@ -142,6 +142,14 @@ export const certificationDetails: certificationProps[] = [
     link: "/certificates/Hack2skill-Certificate.pdf",
     index: 17,
   },
+  {
+    title: "Software Development Intern",
+    issuer: "Yuga Yatra (Retail) OPC PVT. LTD.",
+    date: "2025",
+    link: "/certificates/Yuga Yatra SDE Certificate.pdf",
+    index: 17,
+  },
+
   // Certificates with LinkedIn links (keeping existing ones)
   
   
