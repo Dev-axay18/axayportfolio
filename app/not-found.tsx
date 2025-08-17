@@ -7,7 +7,7 @@ const NotFound = () => {
     <div className="flex h-[100vh] flex-col items-center justify-center bg-[#0E1016] text-[#e4ded7] gap-5">
       <p className="text-[25px] sm:text-[30px] md:text-[35px] lg:text-[40px] uppercase">Annnaa… this ain’t the rooooad (Error 404)</p>
       <Image
-        src="https://media.tenor.com/5jtjdvna958AAAAM/stressed-screamibg.gif"
+        src="https://github.com/Dev-axay18/axayportfolio/blob/main/public/stressed-screamibg.gif?raw=true"
         alt="Funny Meme"
         width={858}
         height={483}
