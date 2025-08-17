@@ -11,7 +11,7 @@ const NotFound = () => {
         alt="Funny Meme"
         width={858}
         height={483}
-        className="w-[90%] sm:w-[80%] md:w-[70%] lg:w-[60%]"
+{/*         className="w-[90%] sm:w-[80%] md:w-[70%] lg:w-[60%]" */}
       />
       <div>
         <Link href="/" className="text-[25px] sm:text-[30px] md:text-[35px] lg:text-[40px] uppercase">
