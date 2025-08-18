@@ -125,7 +125,7 @@ This portfolio is optimized for [Vercel](https://vercel.com/):
 
 - **Design & Code:** [Akshay Kale](https://www.linkedin.com/in/akshay-kale-88792932a/)
 - **Inspired by:** Modern developer portfolios, Vercel/Next.js showcase, and the open-source community
-- **Special Thanks:** To all contributors, mentors, and the tech community! 💖
+- **Special Thanks:** To all contributors, mentors, and the tech community! 
 
 ---
 
