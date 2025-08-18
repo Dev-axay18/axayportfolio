@@ -6,6 +6,7 @@ import AnimatedBody from "../animations/AnimatedBody";
 import { motion } from "framer-motion";
 
 const Certifications = () => {
+  
   const certificates = certificationDetails.filter((c) => !c.isOfferLetter);
   const offerLetters = certificationDetails.filter((c) => c.isOfferLetter);
   return (
