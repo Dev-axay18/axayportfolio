@@ -29,7 +29,6 @@ export const skillsDetails: SkillCategory[] = [
       { name: 'Node.js', level: 'Advanced' },
       { name: 'Express.js', level: 'Advanced' },
       { name: 'Python', level: 'Advanced' },
-      { name: 'Java', level: 'Intermediate' },
     ],
   },
   {
