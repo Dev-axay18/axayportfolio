@@ -15,7 +15,7 @@ export type experienceProps = {
 export const experienceDetails: experienceProps[] = [
   {
     title: "Software Development Engineer Intern",
-    company: "Yuga Yatra Retail (OPC) Pvt. Ltd.",
+    company: "Yuga Yatra Retail (OPC) Pvt. Ltd. ",
     duration: "June 15, 2025 - August 15, 2025 (Present)",
     location: "Remote",
     description:
