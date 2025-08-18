@@ -59,7 +59,7 @@ export const devProjects = [
     name: "Obsidian",
     description:
       "Obsidian is a minimalist operating system built from scratch using C and Assembly, with Makefile for seamless compilation. It features a lightweight kernel, basic file management, and a simple command-line interface. The project demonstrates low-level programming and OS design skills.",
-    technologies: ["MAKEFILE", "C", "Assembly", "Code"],
+    technologies: ["MAKEFILE", "C", "Assembly"],
     github: "https://github.com/Dev-axay18/Obsidian",
     demo: "https://www.linkedin.com/posts/akshay-kale-88792932a_day-day1-obsidianos-activity-7257477309245382658-kWSE?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFMTL6cBVRYFmEYqFqZ_LBeIEdUxOp0wKqM&utm_campaign=copy_link",
     image: "https://akshaykale.netlify.app/obsidian.png",
@@ -70,23 +70,23 @@ export const devProjects = [
     name: "SkyCast Weather App",
     description:
       "SkyCast is a social media dashboard with integrated weather analytics, providing real-time updates and interactive charts. Users can track weather trends, share insights, and customize their dashboard for a personalized experience. The app combines utility with a sleek, modern design.",
-    technologies: ["React", "Firebase", "Tailwind CSS", "Code", "Live Demo"],
+    technologies: ["React", "Firebase", "Tailwind CSS", "Code"],
     github: "https://github.com/Dev-axay18",
     demo: "https://www.linkedin.com/posts/akshay-kale-88792932a_reactjs-tailwindabrcss-javascript-activity-7282418713276923904-3OxZ",
     image: "https://cdn.dribbble.com/userupload/8911521/file/original-5b32dd8606b98dbdb38cd0c75e674ded.jpg?resize=752x&vertical=center",
     available: true,
   },
-  {
-    id: 5,
-    name: "Resonix",
-    description:
-      "Resonix is a sleek music streaming platform built with React.js, Tailwind CSS, and powerful APIs for seamless audio playback and discovery. Users can create playlists, explore trending tracks, and enjoy high-quality streaming. The interface is designed for both beauty and usability.",
-    technologies: ["React", "Firebase", "Tailwind CSS"],
-    github: "https://github.com/Dev-axay18",
-    demo: "https://www.linkedin.com/posts/akshay-kale-88792932a_html-tailwindcss-javascript-activity-7289675149266567169-jKqa",
-    image: "https://cdn.dribbble.com/userupload/37283049/file/original-9b8dac9e625097de6e7188e065964f0c.jpg?resize=1504x1132&vertical=center",
-    available: true,
-  },
+  // {
+  //   id: 5,
+  //   name: "Resonix",
+  //   description:
+  //     "Resonix is a sleek music streaming platform built with React.js, Tailwind CSS, and powerful APIs for seamless audio playback and discovery. Users can create playlists, explore trending tracks, and enjoy high-quality streaming. The interface is designed for both beauty and usability.",
+  //   technologies: ["React", "Firebase", "Tailwind CSS"],
+  //   github: "https://github.com/Dev-axay18",
+  //   demo: "https://www.linkedin.com/posts/akshay-kale-88792932a_html-tailwindcss-javascript-activity-7289675149266567169-jKqa",
+  //   image: "https://cdn.dribbble.com/userupload/37283049/file/original-9b8dac9e625097de6e7188e065964f0c.jpg?resize=1504x1132&vertical=center",
+  //   available: true,
+  // },
   {
     id: 6,
     name: "Tic-Tac-Toe",
