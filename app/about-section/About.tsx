@@ -22,7 +22,7 @@ const About = () => {
               text="I’m a passionate Full Stack Developer with a strong drive for crafting elegant, scalable solutions to complex real-world problems. With over 5 years of hands-on experience in modern web development, I specialize in building responsive, user-friendly, and performance-optimized applications that provide exceptional user experiences across all platforms."
             />
             <AnimatedBody
-              text="From designing sleek front-end interfaces with React, Tailwind CSS, and modern JavaScript frameworks, to engineering robust backend architectures using Node.js, Express, Django, and RESTful APIs, I take pride in delivering clean, maintainable code that performs efficiently at scale."
+              text="From designing sleek front-end interfaces with React, Tailwind-CSS, and modern JavaScript frameworks, to engineering robust backend architectures using Node.js, Express, Django, and RESTful APIs, I take pride in delivering clean, maintainable code that performs efficiently at scale."
             />
             <AnimatedBody
               text="My toolkit includes version control and collaboration through Git and GitHub, database expertise in SQL, PostgreSQL, and MongoDB, and deployment know-how with Docker, Linux-based environments, CI/CD pipelines, and cloud platforms like Vercel and Render. I’m comfortable working in terminal-driven systems, setting up development and production environments, and managing infrastructure that supports high-availability applications."
