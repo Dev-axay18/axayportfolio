@@ -49,7 +49,7 @@ export const experienceDetails: experienceProps[] = [
     duration: "Mar-2025 to Apr-2025 (1 month)",
     location: "Remote",
     description:
-      "Worked on CI/CD pipelines, cloud deployment, and automation. Developed a CI/CD pipeline using Azure for seamless deployment. Implemented Docker and Kubernetes for containerization and orchestration. Integrated GitHub Actions for automated testing and deployment.",
+      "Worked on CI/CD pipelines, Cloud deployment, and automation. Developed a CI/CD pipeline using Azure for seamless deployment. Implemented Docker and Kubernetes for containerization and orchestration. Integrated GitHub Actions for automated testing and deployment.",
     technologies: ["Azure", "CI/CD", "Docker", "Kubernetes", "GitHub Actions", "Cloud"],
     index: 3,
   },
