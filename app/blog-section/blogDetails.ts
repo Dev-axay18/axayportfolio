@@ -25,7 +25,7 @@ export const blogDetails = [
     index: 1,
   },
   {
-    title: "Writing Python Code That Can’t Be Exploited",
+    title: "Writing Python Code That Can’t Be Exploited.",
     image: "/blogs/Cyber Article.jpeg",
     date: "JULY 22, 2025",
     url: "https://www.linkedin.com/pulse/copy-cybersecurity-developers-writing-python-code-cant-akshay-kale-2zz0e/?trackingId=MvJr51TvSb%2BVFZSNZvoEnA%3D%3D",
