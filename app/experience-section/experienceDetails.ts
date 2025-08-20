@@ -16,7 +16,7 @@ export const experienceDetails: experienceProps[] = [
   {
     title: "Software Development Engineer Intern",
     company: "Yuga Yatra Retail (OPC) Pvt. Ltd. ",
-    duration: "June 15, 2025 - August 15, 2025 ",
+    duration: "June 16, 2025 - August 15, 2025 ",
     location: "Remote",
     description:
       "Working as a Software Development Engineer Intern at a startup India certified company. Developing and maintaining web applications using modern technologies. Contributing to the development of scalable software solutions and collaborating with the development team to deliver high-quality products. Gaining hands-on experience in full-stack development and agile methodologies.",
