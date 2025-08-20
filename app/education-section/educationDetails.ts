@@ -15,7 +15,7 @@ export type educationProps = {
 export const educationDetails: educationProps[] = [
   {
     degree: "Bachelor of Technology (B.Tech) in Electronics and Computer Engineering.",
-    institution: "Maharashtra Institute Of Technology (Autonomous)",
+    institution: "Maharashtra Institute Of Technology (Autonomous) ",
     duration: "2024 - Appearing",
     location: "Chh. Sambhajinagar, Maharashtra",
     description: "Electronics And Component Designing, Computer and Software Engineering. Published research paper on Blockchain and Future Extends of Blockchain.",
