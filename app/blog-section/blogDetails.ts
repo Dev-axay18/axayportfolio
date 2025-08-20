@@ -9,7 +9,7 @@ export type blogProps = {
 
 export const blogDetails = [
   {
-    title: "Unveiling the Hidden Potential of Blockchain Beyond Cryptocurrencies",
+    title: "Un veiling the Hidden Potential of Blockchain Beyond Cryptocurrencies",
     image: "/blogs/blockchain-cover.jpg",
     date: "JANUARY 21, 2025",
     url: "https://www.linkedin.com/pulse/unveiling-hidden-potential-blockchain-beyond-akshay-kale-ejyjc/?trackingId=oXJQOUiwQdWowJw46QTOSg%3D%3D",
