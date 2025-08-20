@@ -40,7 +40,7 @@ export const experienceDetails: experienceProps[] = [
     location: "Remote",
     description:
       "Developed and optimized web applications using modern technologies. Improved UI/UX and enhanced website performance. Created fully functional web design and user experience with functional UI. Worked on responsive web design.",
-    technologies: ["React", "Tailwind CSS", "UI/UX", "Responsive Design"],
+    technologies: ["React", "Tailwind-CSS", "UI/UX", "Responsive Design"],
     index: 2,
   },
   {
