@@ -34,7 +34,7 @@ export const experienceDetails: experienceProps[] = [
     index: 1,
   },
   {
-    title: "Web Development Intern",
+    title: "Web Development Intern.",
     company: "Externs Club",
     duration: "Mar-2024 to Apr-2024 (1 month)",
     location: "Remote",
