@@ -32,7 +32,7 @@ export const educationDetails: educationProps[] = [
     index: 1,
   },
   {
-    degree: "MERN Stack Development",
+    degree: "MERN Stack Development.",
     institution: "IT Corner (Cannought, Cidco)",
     duration: "Jan 2025 - Aug 2025",
     location: "Chh. Sambhajinagar, Maharashtra",
