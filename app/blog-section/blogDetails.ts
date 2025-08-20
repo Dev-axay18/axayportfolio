@@ -33,7 +33,7 @@ export const blogDetails = [
     index: 2,
   },
   {
-    title: "DNS Over HTTPS (DoH): Privacy Savior or Security Nightmare?",
+    title: "DNS Over HTTPS (DoH) : Privacy Savior or Security Nightmare?",
     image: "/blogs/Untitled design.jpg",
     date: "JULY 31, 2025",
     url: "https://doh.hashnode.dev/dns-over-https-doh-privacy-savior-or-security-nightmare#heading-dns-request-encapsulation",
