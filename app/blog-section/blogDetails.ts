@@ -17,7 +17,7 @@ export const blogDetails = [
     index: 0,
   },
   {
-    title: "Integration of Quantum Computing and Artificial Intelligence",
+    title: "Integration of Quantum Computing and Artificial Intelligence.",
     image: "/blogs/quantum.jpg",
     date: "MAY 30, 2025",
     url: "https://www.linkedin.com/posts/md5axay_research-paper-integration-of-quantum-computing-activity-1234567890123456789-abcdefg/",
