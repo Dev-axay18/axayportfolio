@@ -3,7 +3,11 @@
 <p align="center">
   <img width="2834" height="1490" alt="" src="https://github.com/Dev-axay18/axayportfolio/blob/main/Screenshot%202025-07-20%20160203.png" />
 </p>
-
+<p align="center">
+  <a href="https://ak22dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ Live_Demo-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
 <h1 align="center">🚀 AKSHAY KALE — Portfolio v1</h1>
 
 <p align="center">
