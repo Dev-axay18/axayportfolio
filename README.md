@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/ Live_Demo-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
-<h1 align="center">🚀 AKSHAY KALE — Portfolio v1</h1>
+<h1 align="center">🚀 AKSHAY KALE— Portfolio v1</h1>
 
 <p align="center">
   <b>Full Stack Developer | Cybersecurity Enthusiast | UI/UX Designer</b><br/>
