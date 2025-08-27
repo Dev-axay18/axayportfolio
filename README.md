@@ -19,7 +19,7 @@
 
 ## ✨ Overview
 
-Welcome to <b>Akshay Kale's Portfolio</b> — a modern, interactive, and visually stunning portfolio built with <b>Next.js</b>, <b>React</b>, <b>TailwindCSS</b>, and more. This site is designed to highlight my work, research, certifications, and creative journey in tech. 🌐
+Welcome to <b>Akshay Kale's Portfolio</b> - a modern, interactive, and visually stunning portfolio built with <b>Next.js</b>, <b>React</b>, <b>TailwindCSS</b>, and more. This site is designed to highlight my work, research, certifications, and creative journey in tech. 🌐
 
 ---
 
