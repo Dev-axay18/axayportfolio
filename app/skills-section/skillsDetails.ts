@@ -46,7 +46,7 @@ export const skillsDetails: SkillCategory[] = [
       { name: 'Docker', level: 'Intermediate' },
       { name: 'AWS', level: 'Intermediate' },
       { name: 'npm', level: 'Advanced' },
-      { name: 'Figma', level: 'Intermediate' },
+      { name: 'Figma', level: 'Advanced' },
       { name: 'Kali Linux', level: 'Expert' },
       { name: 'CEH', level: 'Expert' },
       { name: 'DevOps', level: 'Advanced' },
