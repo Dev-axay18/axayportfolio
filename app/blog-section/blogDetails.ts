@@ -12,7 +12,7 @@ export const blogDetails = [
     title: "Unveiling The Hidden Potential of Blockchain Beyond Cryptocurrencies",
     image: "/blogs/blockchain-cover.jpg",
     date: "JANUARY 21, 2025",
-    url: "https://www.linkedin.com/pulse/unveiling-hidden-potential-blockchain-beyond-akshay-kale-ejyjc/?trackingId=oXJQOUiwQdWowJw46QTOSg%3D%3D",
+    url: "https://www.linkedin.com/pulse/unveiling-hidden-potential-blockchain-beyond-akshay-kale-ejyjc",
     available: true,
     index: 0,
   },
