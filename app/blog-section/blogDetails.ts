@@ -40,4 +40,13 @@ export const blogDetails = [
     available: true,
     index: 3,
   },
+   {
+    title: "WinRAR 0-Day (CVE-2025-8088): ADS + Path Traversal Used in the Wild by RomCom",
+    image: "/blogs/Untitled design.jpg",
+    date: "August 28, 2025",
+    url: "https://www.linkedin.com/pulse/winrar-0-day-cve-2025-8088-ads-path-traversal-used-wild-akshay-kale-cwxcc/?trackingId=0wU%2FM%2FzJSRCdb0rGBjO1Cg%3D%3D",
+    available: true,
+    index: 4,
+  },
+  
 ];
