@@ -22,6 +22,14 @@ export const certificationDetails: certificationProps[] = [
     index: 0,
   },
   {
+    title: "Ethical Hacker",
+    issuer: "Cisco Networking Academy",
+    date: "August 31, 2025",
+    credentialId: "b7ee07d4-1c45-45b0-aef8-b6b59d880439",
+    link: "/certificates/Cert_Cicsco.pdf",
+    index: 28,
+  },
+  {
     title: "AI Aware & Appreciate Certified",
     issuer: "Intel & Digital India",
     date: "July 5, 2025",
