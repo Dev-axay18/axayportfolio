@@ -214,7 +214,7 @@ export const certificationDetails: certificationProps[] = [
     title: "MERN Stack Developer @ WebStack Academy (WSA)",
     issuer: "WebStack Academy",
     date: "2025",
-    link: "/certificates/  webstack_academy_internship_offer_letter_Akshay Kale.pdf",
+    link: "/certificates/webstack_academy_internship_offer_letter_Akshay Kale.pdf",
     index: 29,
     isOfferLetter: true,
   },
