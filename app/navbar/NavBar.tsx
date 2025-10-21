@@ -21,7 +21,7 @@ const NavBar = () => {
   return (
     <nav className="fixed bottom-10 left-1/2 -translate-x-1/2 z-50 my-0 mx-auto flex w-auto items-center justify-center gap-1 rounded-lg bg-[#07070a]/90 px-4 py-1 text-[#e4ded7] backdrop-blur-md sm:px-6 md:p-2">
       <Link
-        href="https://drive.google.com/file/d/1nBrH8_roGyarMks1Wms3ir7Vm1UYL38C/view?usp=sharing"
+        href="https://drive.google.com/drive/folders/1Xy8vU2cVj7kH7lpFMiWMVfzcFwaDgIRq?usp=sharing"
         target="_blank"
         className="flex"
         aria-label="Open my resume"
