@@ -50,7 +50,7 @@ export const blogDetails = [
   },
     {
     title: "Linux Kernel Bug CVE-2025-38236: Chrome Sandbox Escape",
-    image: "https://media.licdn.com/dms/image/v2/D5612AQEXmrTPRHXiXg/article-cover_image-shrink_720_1280/B56Zlc40lTIsAI-/0/1758200024820?e=1762387200&v=beta&t=bXg_dxm0XU9Xs6jECcMWFmNPiOOyIBIFRKjw2q7zfJ4",
+    image: "/blogs/Linux_Kernel.png",
     date: "September 18, 2025",
     url: "https://www.linkedin.com/pulse/linux-kernel-bug-cve-2025-38236-chrome-sandbox-escape-akshay-kale-ui1uc",
     available: true,
